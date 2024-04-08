@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "789169032533",
+    "project_id": "calorietracker-335a9",
+    "storage_bucket": "calorietracker-335a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789169032533:android:ce59b5b21950a9e6e873dc",
+        "android_client_info": {
+          "package_name": "com.nudgebuddy.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789169032533-bucsf8gdqnr676p3obm1r38if6ak2r9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO207h1pLvvF6wkQ4qQjAL4QLHwCxzO7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789169032533-bucsf8gdqnr676p3obm1r38if6ak2r9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
